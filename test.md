@@ -14,8 +14,6 @@ Ch16-19
 ```
 # range的技術
 ```
-range的技術(1)
-
 list1=range(8)
 #list1
 #range(0, 8)
