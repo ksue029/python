@@ -24,9 +24,15 @@ range(8)
 list(range(8))
 #[0, 1, 2, 3, 4, 5, 6, 7]
 
-list(range(1,9))
 ```
 ## range的技術(2)
 ```
 list(range(1,9))
 #[1, 2, 3, 4, 5, 6, 7, 8]
+```
+## range的技術(3)
+list3=range(7,9,10)
+#list3
+#range(7, 9, 10)
+list3
+#range(7, 9, 10)
