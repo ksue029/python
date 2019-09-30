@@ -31,11 +31,12 @@ list(range(1,9))
 #[1, 2, 3, 4, 5, 6, 7, 8]
 ```
 ## range的技術(3)
-
+```
 list3=range(7,9,10)
 #list3
 #range(7, 9, 10)
 list3
 #range(7, 9, 10)
-
+```
 ## range的技術(4)
+
