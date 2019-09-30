@@ -27,3 +27,5 @@ list(range(8))
 list(range(1,9))
 ```
 ## range的技術(2)
+list(range(1,9))
+#[1, 2, 3, 4, 5, 6, 7, 8]
